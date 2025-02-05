@@ -1,6 +1,6 @@
 # environmental_classification
 
-The used dataset comes from [IOT_SENSOR.csv](https://github.com/mferiansyahrt/environmental_classification/IOT_SENSOR.csv)
+The used dataset comes from [IOT_SENSOR.csv](./IOT_SENSOR.csv)
 
 <div align="center">
     <a href="./">
