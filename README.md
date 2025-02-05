@@ -35,7 +35,7 @@ With dataset tesing, we gain a score of <b>0.913</b> by using Logistic Regressio
 
 <div align="center">
     <a href="./">
-        <img src="./figure/res_testing.png" width="80%"/>
+        <img src="./figure/res_testing.png" width="50%"/>
     </a>
 </div>
 
@@ -43,6 +43,6 @@ Referring to confution matrix below, we can see that the environments recorded b
 
 <div align="center">
     <a href="./">
-        <img src="./figure/conv_matrix_env.png" width="80%"/>
+        <img src="./figure/conf_matrix_env.png" width="80%"/>
     </a>
 </div>
