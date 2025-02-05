@@ -16,6 +16,7 @@ The exploratory data analysis, data preprocessing, and model building are explai
 
 In this project, KNN and Logistic Regression are employed to classify environmental condition. With the training score is shown on table below
 
+<div align="center">
 <table><thead>
   <tr>
     <th></th>
@@ -30,6 +31,7 @@ In this project, KNN and Logistic Regression are employed to classify environmen
   </tr>
 </tbody>
 </table>
+</div>
 
 With dataset tesing, we gain a score of <b>0.913</b> by using Logistic Regression.
 
